@@ -1,3 +1,4 @@
-discord.py
-openai
+fastapi
+uvicorn
 requests
+beautifulsoup4
